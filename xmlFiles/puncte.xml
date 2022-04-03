@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+    <point>
+        <X>5</X>
+        <Y>8</Y>
+    </point>
+	<point>
+        <X>0</X>
+        <Y>0</Y>
+    </point>
+	<point>
+        <X>9</X>
+        <Y>0</Y>
+    </point>
+	<point>
+        <X>0</X>
+        <Y>10</Y>
+    </point>
+</container>
